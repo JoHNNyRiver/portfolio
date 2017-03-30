@@ -1,0 +1,39 @@
+{
+  "name": "João Augusto - web developer",
+  "short_name": "João Augusto",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "lang": "pt_br",
+  "description": "Este é meu web curriculo",
+  "orientation": "landscape",
+  "icons": [{
+    "src": "../images/icon48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "../images/icon72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "../images/icon96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "../images/icon144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "../images/icon168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "../images/icon192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }],
+  "related_applications": [{
+    "platform": "web"
+  }]
+}
