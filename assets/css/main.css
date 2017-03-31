@@ -90,7 +90,7 @@ main .tech h2{
 	text-align: center;
 	font-size: 50px;
 	color: #444;
-	margin-top: 5%;
+	margin-top: 10%;
 }
 
 main .tech figure{
@@ -114,9 +114,6 @@ main .tech figure:hover img{
 	transform: translateY(-50px) scale(2);
 	filter: blur(.9px);
 	transition: transform .4s linear;
-}
-main .tech figure img:nth-child(1){
-	margin-left: 8%;
 }
 
 main .tech figure figcaption{
@@ -198,13 +195,12 @@ main .sobre h2{
 	text-align: center;
 	font-size: 50px;
 	color: #444;
-	margin-top: 4%;
+	margin: 10%;
 }
 
 main .sobre figure{
 	width: 25%;
 	height: 25%;
-	margin-top: 2%;
 	position: relative;
 }
 main .sobre figure img{
@@ -224,7 +220,8 @@ main .sobre p{
 	color: #777;
 	width: 50%;
 	text-align: center;
-	margin-top: 1%;
+	margin: 7%;
+	margin: 30px;
 }
 
 main .sobre a{
@@ -300,9 +297,6 @@ footer{
 	color: #fff;
 	text-align: center;
 }
-footer > p{
-	padding: 10px;
-}
 
 
 
@@ -310,9 +304,7 @@ footer > p{
 
 @media(min-width: 320px) and (max-width: 560px){
 	/* Cabeçalho media query */
-	header div{
-		margin-top: 70%;
-	}
+
 	header div h1{
 		font-size: 35px;
 	}
