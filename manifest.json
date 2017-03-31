@@ -1,7 +1,7 @@
 {
   "name": "João Augusto - web developer",
   "short_name": "João Augusto",
-  "start_url": "johnnyriver.github.io/portfolio",
+  "start_url": "/myprofile",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#fff",
