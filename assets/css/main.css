@@ -132,7 +132,15 @@ h2 {
 @media (max-width: 990px) {
   .container {
     flex-direction: column;
-    justify-content: start !important;
+    justify-content: unset !important;
+  }
+
+  .description-header {
+	  margin-top: 50px;
+  }
+
+  #header-mobile-less-bottom {
+	  margin-bottom: -100px;
   }
 
   #bg-blue .container {
