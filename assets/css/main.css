@@ -10,6 +10,10 @@ body {
   overflow: hidden;
 }
 
+.description-header header {
+  margin-bottom: 50px;
+}
+
 #bg-blue {
   background: #7179fb;
   color: #fff;
@@ -130,6 +134,10 @@ h2 {
 }
 
 @media (max-width: 990px) {
+  #fp-nav {
+    display: none;
+  }
+  
   .container {
     flex-direction: column;
     justify-content: unset !important;
